@@ -1,16 +1,41 @@
-### Hi there 👋
+# Bonjour, je suis Caroline Chochoy
 
-<!--
-**CaroChoch/CaroChoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeuse junior spécialisée en **data analyse** et **machine learning**, j’ai entamé une reconversion professionnelle après 20 ans d’expérience dans l’assistance client et la gestion technique chez Sanef.
 
-Here are some ideas to get you started:
+🎓 Diplômée de [Holberton School](https://www.holbertonschool.com/) (2025)  
+🧠 Spécialisation : Python, SQL, Machine Learning, Visualisation de données  
+📍 Basée sur la métropole Lilloise, l'Artois et la Côte d'Opale – Disponible pour des **alternances** ou **missions courtes** dans la data / IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Compétences techniques
+
+- **Langages** : C, Python, SQL, HTML/CSS, JavaScript (bases)
+- **Librairies & Outils Data** : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
+- **Outils Dev** : Git, GitHub, Linux Shell, Flask, Django
+- **Méthodes** : Clean Code, Agile, data cleaning & visualisation
+
+---
+
+##  Projets personnels
+
+### [VintedSorter](https://github.com/CaroChoch/VintedSorter)
+Application de classification d’images pour trier automatiquement des vêtements destinés à la vente (projet ML + structuration automatique de dossiers)
+
+### [Data Matching Assistant]
+Assistant d’analyse Excel avec interface graphique et matching intelligent (fuzzy matching, RapidFuzz, Levenshtein)
+
+### [Ma Boutique de Rêve]
+Site e-commerce fictif développé en Python/Django pour maîtriser la logique web fullstack
+
+---
+
+## Me contacter
+
+📧 caroline.chochoy@outlook.com  
+📍 Villeneuve-d’Ascq (métropole lilloise)  
+🔗 [LinkedIn](https://www.linkedin.com/in/caroline-chochoy62/)  
+
+---
+
+*Merci de votre visite ! Ce profil est en constante évolution au fil de mes projets et apprentissages.*
