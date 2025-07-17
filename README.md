@@ -25,15 +25,14 @@ Application de classification d’images pour trier automatiquement des vêtemen
 ### [Data Matching Assistant]
 Assistant d’analyse Excel avec interface graphique et matching intelligent (fuzzy matching, RapidFuzz, Levenshtein)
 
-### [Ma Boutique de Rêve]
+### [Ma Boutique de Rêve](https://github.com/CaroChoch/Portfolio-Foundations)
 Site e-commerce fictif développé en Python/Django pour maîtriser la logique web fullstack
 
 ---
 
 ## Me contacter
 
-📧 caroline.chochoy@outlook.com  
-📍 Villeneuve-d’Ascq (métropole lilloise)  
+📧 caroline.chochoy@outlook.com    
 🔗 [LinkedIn](https://www.linkedin.com/in/caroline-chochoy62/)  
 
 ---
